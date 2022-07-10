@@ -28,6 +28,5 @@ end)
 Page:slider("Slider!",1,100,16,function(h)
     game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = h
 end)
-end)
 Page:Label('Label!')
 Page:line() 
